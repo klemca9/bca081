@@ -7,7 +7,7 @@ public class sumofodde {
         even = 0;
 
         for (int i=0; i<=a; i++) {
-            if (a%2 == 1) {
+            if (i%2 == 1) {
                 odd = odd + i;
             }
             else {
@@ -30,8 +30,9 @@ public class sumofodde {
         System.out.println("NEW BRANCH");
 
         System.out.println("Enter any number: ");
-        // b = toInt(System.out.readln());
-        b=3;
+        // b = toInt(System.console().readln());
+        b=5;
+
 
 
 
