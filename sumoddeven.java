@@ -27,9 +27,13 @@ public class sumofodde {
         sumofodde obj1 = new sumofodde();
         int b;
 
+        System.out.println("NEW BRANCH");
+
         System.out.println("Enter any number: ");
         // b = toInt(System.out.readln());
         b=3;
+
+
 
 
 
